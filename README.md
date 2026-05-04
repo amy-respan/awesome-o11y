@@ -45,6 +45,7 @@ This resource list empowers IT professionals and developers of all experience le
 | [Tracetest](https://tracetest.io/blog) | OpenTelemetry based tool that helps you develop and test your distributed applications |
 | [TruEra](https://truera.com/ai-quality-blog/) | A solution for testing, tracking, and monitoring large language models |
 | [VictoriaMetrics](https://victoriametrics.com/blog/) | TSDB and high performance monitoring solutions |
+- [KubeStellar Console Blog](https://github.com/kubestellar/console) - Updates on multi-cluster Kubernetes observability, AI-powered operations, and CNCF project integrations from the KubeStellar Console team.
 
 
 
