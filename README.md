@@ -38,6 +38,7 @@ This resource list empowers IT professionals and developers of all experience le
 | [OpenObserve](https://openobserve.ai/blog) | Log search, infrastructure monitoring, and APM solution |
 | [OpenTelemetry](https://opentelemetry.io/blog/) | Collection of tools for telemetry data  |
 | [Pyroscope](https://pyroscope.io/blog/) | Grafana Pyroscope is an open source software project for aggregating continuous profiling data. |
+| [Respan](https://www.respan.ai/ai-gateway) | Full-stack AI engineering platform for LLM and agent observability, evals, prompt management, and gateway |
 | [ScienceLogic](https://sciencelogic.com/blog) | AIOps and IT Infrastructure Monitoring Platform |
 | [SigNoz](https://signoz.io/blog/) | Observability platform native to OpenTelemetry |
 | [Splunk](https://www.splunk.com/en_us/blog) | Advanced and scalable form of software that indexes and searches for log files within a system and analyzes data for operational intelligence |
